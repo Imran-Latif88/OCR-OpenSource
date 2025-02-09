@@ -4,6 +4,8 @@ This project is an open-source OCR (Optical Character Recognition) tool powered 
 pip install -r requirments.txt
 # Requirements 
 Install ollama server on local machine
-Llama 3.2-Vision running on ollam server
+Llama 3.2-Vision running on ollama server
+
 # Run
+
 python main.py
