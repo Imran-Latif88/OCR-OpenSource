@@ -1,0 +1,5 @@
+ollama
+base64
+requests
+pillow
+json
